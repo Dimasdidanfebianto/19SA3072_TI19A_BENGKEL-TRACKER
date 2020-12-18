@@ -8,6 +8,7 @@ Objek
   Barang_001 (001, barang benda cair seperti oli mesin oli rem )
   Barang_002 (002, barang benda padat seperti V-belt filter oli )
   Barang_003 (003, barang benda padat seperti ban luar ban dalam )
+  Barang_003 (004, barang benda padat seperti Lampu Xenon Halogen dan LED)
 
 - Kelas jasa
   Jasa_001 (service ringan)
