@@ -7,12 +7,15 @@ Objek
 - Kelas Barang 
   Barang_001 (001, barang benda cair seperti oli mesin oli rem )
   Barang_002 (002, barang benda padat seperti V-belt filter oli )
+  Barang_003 (003, barang benda padat seperti ban luar ban dalam )
 
 - Kelas jasa
   Jasa_001 (service ringan)
   Jasa_002 (service turun mesin)
   Jasa_003 (Pemasangan lampu)
   Jasa_004 (Pembersihan/ detail wash)
+  Jasa_005 (Pemasangan/ pergantian ban luar dan dalam)
+  Jasa_006 (Pompa ban dan tambal ban)
   
   Atribut
   -Kelas barang
