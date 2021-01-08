@@ -16,8 +16,20 @@ Objek
   Jasa_002 (service turun mesin)
   Jasa_003 (Pemasangan lampu)
   Jasa_004 (Pembersihan/ detail wash)
-  Jasa_005 (Pemasangan/ pergantian ban luar dan dalam)
-  Jasa_006 (Pompa ban dan tambal ban)
+  Jasa_005 (Pemasangan ban dan tambal)
+  
+- Kelas Kerusakan
+  Kelas1(karbu kotor)
+  kelas2(lampu lampu ada yang mati)
+  kelas3(bocor dan ban aus)
+  kelas4(kotor body dan rangka)
+  kelas5(kendaaran tidak mau menyala dan banyak part yang rusak)
+  
+- Kelas Bengkel
+  Bengkel1(Tambal ban dan pencucian motor dan mobil)
+  Bengkel2(Tuneup dan Service)
+  
+
   
   Atribut
   -Kelas barang
